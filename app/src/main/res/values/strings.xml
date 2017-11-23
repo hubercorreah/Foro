@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Foro</string>
+    <string name="edit_text_usuario_hint">Email de Usuario</string>
+    <string name="edit_text_password_hint">Contraseña</string>
+    <string name="ingresar_text">Ingresar</string>
+    <string name="text_link_registrarse">¿No tienes cuenta? Registrate</string>
+    <string name="hint_nombre_apellidos">Nombre y Apellidos</string>
+    <string name="email">Email</string>
+    <string name="ya_tienes_usuario">Ya Tienes Usuario</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingrese_todos_campos">Ingrese todos los campo</string>
+    <string name="txtLink_recup_pass">Recuperar Contraseña</string>
+    <string name="mensaje_recuperacion">Correo de recuperacion enviado</string>
+</resources>
